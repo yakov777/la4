@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">la4</string>
+    <string name="EditText">Text</string>
+    <string name="searchButton">Search</string>
+    <string name="progress"> </string>
+    <string name="errorTextView">Ahtung</string>
+    <string name="emptyTextView"></string>
+    <string name="some_error_happened_upon_loading_the_list">some_error</string>
+    <string name="nameTextView">Name</string>
+</resources>
